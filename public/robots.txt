@@ -1,2 +1,4 @@
 User-agent: *
-Disallow:
+Allow: /
+
+Sitemap: https://smkairlanggabpn.sch.id/sitemap.xml
